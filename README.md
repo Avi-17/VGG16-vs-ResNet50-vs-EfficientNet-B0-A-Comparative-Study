@@ -2,6 +2,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Avi-17/VGG16-vs-ResNet50-vs-EfficientNet-B0-A-Comparative-Study/blob/main/CNN_Benchmark_CIFAR10.ipynb)
 
+[View Notebook](https://nbviewer.org/github/Avi-17/VGG16-vs-ResNet50-vs-EfficientNet-B0-A-Comparative-Study/blob/main/VGG16_vs_ResNet50_vs_EfficientNet_B0_comparative_study.ipynb)
+
 A comparative benchmark of **VGG16**, **ResNet50**, and **EfficientNet-B0** fine-tuned from ImageNet-pretrained weights on the CIFAR-10 dataset. The benchmark reports test accuracy, parameter count, training time, and inference latency, and includes Grad-CAM visualizations for explainability.
 
 ## Contents
